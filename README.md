@@ -47,6 +47,14 @@ Install PHP on the server, as osTicket is a PHP-based application: Installed the
 <br />
 
 <p>
+<img src="https://i.imgur.com/WVCyxtL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set appropriate file and directory permissions to ensure osTicket has the necessary read and write access.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/tYJiWGH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
