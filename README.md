@@ -26,8 +26,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP Settings
 - Database Server
 - File Permissions
-- User Access
-
 <h2>Installation Steps</h2>
 
 <p>
@@ -54,10 +52,3 @@ Set appropriate file and directory permissions to ensure osTicket has the necess
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/tYJiWGH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Planned user roles and access levels, considered who will be agents, administrators, and end-users in the osTicket system.
-</p>
-<br />
